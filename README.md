@@ -30,10 +30,11 @@
 - 予定までの空き時間を使って作業したい時　　など
 
 ## 設計書
-<...>
+ER図/ワイヤーフレーム/UI FLOWsは[こちら](https://drive.google.com/file/d/1d3fD4l7Wv_0S3C2E0TAiKohDLYKgRAw1/view?usp=sharing)からご確認いただけます。
+
 
 ## チャレンジ要素一覧
-チャレンジ要素一覧は[こちら](https://docs.google.com/spreadsheets/d/1XrDq_OS-xfqnUiglf-pewSnm4IaJ_aT3wHVjmYjj9JQ/edit?usp=sharing)からご確認いただけます。
+チャレンジ機能一覧は[こちら](https://docs.google.com/spreadsheets/d/1XrDq_OS-xfqnUiglf-pewSnm4IaJ_aT3wHVjmYjj9JQ/edit?usp=sharing)からご確認いただけます。
 
 ## 開発環境
 - OS：Linux(CentOS)
