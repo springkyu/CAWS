@@ -32,8 +32,8 @@
 
 ## 設計書
 ER図/ワイヤーフレーム/UI FLOWsは[こちら](https://drive.google.com/file/d/1d3fD4l7Wv_0S3C2E0TAiKohDLYKgRAw1/view?usp=sharing)から、<br>
-テーブル定義書は[こちら](https://docs.google.com/spreadsheets/d/1dkv8VrxjPccqMhqBAjpe_4DtMnjOHFoBpSLl6vNHcOk/edit?usp=sharing)から、
-アプリケーション詳細設計は[こちら]から、ご確認いただけます。
+テーブル定義書は[こちら](https://docs.google.com/spreadsheets/d/1dkv8VrxjPccqMhqBAjpe_4DtMnjOHFoBpSLl6vNHcOk/edit?usp=sharing)から、<br>
+アプリケーション詳細設計は[こちら]()から、ご確認いただけます。
 
 
 ## チャレンジ要素一覧
